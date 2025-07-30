@@ -54,5 +54,6 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
 ---
-![LeetCode Stats](https://leetcard.jacoblin.cool/ranjithganeshb_07?theme=forest&font=ABeeZee&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ranjithganeshb_07?theme=light&font=ABeeZee&ext=heatmap)
+![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/ranjithlmig4?theme=light)
 ---
