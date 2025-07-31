@@ -55,5 +55,4 @@
 
 ---
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ranjithganeshb_07?theme=light&font=ABeeZee&ext=heatmap)
-![GeeksforGeeks Stats](https://gfgstatscard.vercel.app/ranjithlmig4?theme=light)
 ---
